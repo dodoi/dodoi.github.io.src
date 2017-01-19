@@ -88,18 +88,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="author-liujia.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="author-liujia.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/jacman/source/img/author-liujia.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello-world.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="微信小程序-尺寸单位rpx.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序-尺寸单位rpx.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6785715">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello-world.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.892857">
-              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.08896797">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -110,9 +120,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/_posts/hello-world.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/jacman/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/微信小程序-尺寸单位rpx.md" />
+        <option value="$PROJECT_DIR$/source/_posts/hello-world.md" />
       </list>
     </option>
   </component>
@@ -378,14 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.892857">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -434,6 +437,22 @@
     <entry file="file://$PROJECT_DIR$/themes/jacman/source/img/author-liujia.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序-尺寸单位rpx.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6785715">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08896797">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

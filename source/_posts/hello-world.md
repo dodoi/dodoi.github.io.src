@@ -1,5 +1,6 @@
 ---
 title: Hexo 开发命令
+tags: [杂项]
 ---
 熟悉Hexo命令，
 
